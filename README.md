@@ -1,6 +1,4 @@
-# Next.js & NextUI Template
-
-This is a template for creating applications using Next.js 13 (pages directory) and NextUI (v2).
+# GADDEA GROUP website
 
 ## Technologies Used
 
@@ -14,11 +12,8 @@ This is a template for creating applications using Next.js 13 (pages directory) 
 
 ## How to Use
 
-To create a new project based on this template using `create-next-app`, run the following command:
+1.`yarn`
 
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-pages-template
-```
-## License
+2.`yarn dev`
 
-Licensed under the [MIT license](https://github.com/nextui-org/next-pages-template/blob/main/LICENSE).
+3.`visit localhost:3000`
